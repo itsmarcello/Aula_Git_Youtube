@@ -1,2 +1,2 @@
-# Aula_Git_Youtube
- Curso em Video
+# Aulas em Git 
+ Curso em Video do professor Guanabara 
